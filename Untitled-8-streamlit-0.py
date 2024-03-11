@@ -10,13 +10,13 @@ import numpy as np  # Add this import to handle NaN (Not a Number) values
 import matplotlib.dates as mdates  # Add this import for handling dates in Matplotlib
 
 # Replace with your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'empty'
 
 # Database connection parameters
 db_params = {
     'dbname': 'postgres',
     'user': 'viewer_account',
-    'password': 'Zt8O0R8i4W7cEbTXFi80SZswUXPpQann',
+    'password': 'empty',
     'host': '136.144.62.142',
     'port': '5432'
 }

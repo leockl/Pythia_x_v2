@@ -53,7 +53,7 @@ need to add data in Postgres as its missing data
 need to update Postgres to more recent data 29th Feb 2024 
 
 
-need to add more data in Postgres
+need to add more data in Postgres -> last priority stretch goal
 
 
 need a way to optimize speed connection to one Postgres -> indexing, cacching, optimizing

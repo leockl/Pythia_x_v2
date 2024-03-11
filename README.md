@@ -26,6 +26,9 @@ JSON -> 3rd LLM that summarizes it
 tests:
 
 different types of user questions generate relevant chart type
+
+
+
 ai safety -> guardrails -> censor responses -> only answer blockchain stuff
 
 

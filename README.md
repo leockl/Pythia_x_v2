@@ -40,8 +40,20 @@ Implement in AWS ->  Bedrock
 AWS cost estimation for hosting LLM
 
 Need a database person for the following:
-need to change table and columns in Postgres
+
+need to change table and columns in Postgres -> human readable
+
+
+look into redis data and add it to postgres or connect to redis
+
+
 need to add data in Postgres as its missing data
-need to update Postgres to more recent data 29th Feb 2024
+
+
+need to update Postgres to more recent data 29th Feb 2024 
+
+
 need to add more data in Postgres
-need a way to optimize speed connection to one Postgres
+
+
+need a way to optimize speed connection to one Postgres -> indexing, cacching, optimizing

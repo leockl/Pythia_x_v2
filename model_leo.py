@@ -166,7 +166,7 @@ CREATE TABLE ethereum_token_transfers (
 db_params = {
     'dbname': 'postgres',
     'user': 'viewer_account',
-    'password': 'abcd',
+    'password': 'empty',
     'host': '136.144.62.142',
     'port': '5432'
 }
